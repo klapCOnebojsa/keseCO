@@ -214,4 +214,9 @@ public class Provere {
 
         return proveriString;
     }
+    
+    
+    public void dd(){
+       String hh = "71_0004";
+    }
 }
