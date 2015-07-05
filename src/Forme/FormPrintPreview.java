@@ -142,5 +142,10 @@ public class FormPrintPreview extends JFrame implements ActionListener{
     public void setPageFormat(PageFormat pageFormat){
         this.pageFormat = pageFormat;
     }
-
+    
+    
+    
+    public void kk12(){
+        String hh = "branch01_0040";
+    }
 }
