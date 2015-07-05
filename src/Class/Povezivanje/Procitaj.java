@@ -104,5 +104,15 @@ public class Procitaj {
     }
     public String ProcitajSifruMargina(BrokerDAO brokerDAO) throws Exception {
         return brokerDAO.ProcitajSifruMargina();
-    }     
+    } 
+    
+    
+    
+        
+        
+        
+        
+    public void dd22(){
+       String hh = "71_0002";
+    }
 }

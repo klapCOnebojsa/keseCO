@@ -28,4 +28,12 @@ public class Brisi {
         uReduDAO = (Boolean) brisiSO.Izvrsi();
         return uReduDAO;
     }
+    
+        
+        
+        
+        
+    public void dd(){
+       String hh = "71_0002";
+    }
 }
