@@ -140,7 +140,7 @@ public class Formatiraj {
     public void setKljuc(boolean kljuc) {
         this.kljuc = kljuc;
     }
-    public void kk(){
-        int i=159887;
-    }
+    public void kk12(){
+        String hh = "branch01_0041";
+    } 
 }

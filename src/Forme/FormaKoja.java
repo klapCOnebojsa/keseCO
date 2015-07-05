@@ -63,4 +63,11 @@ public class FormaKoja {
         formForme.infolinija.obavestenje.setLocation(0, formForme.getHeight()-formForme.infolinija.obavestenje.getHeight()*3);
                   
     }
+    
+    
+    
+    
+    public void kk12(){
+        String hh = "branch01_0041";
+    }    
 }
