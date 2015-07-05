@@ -112,7 +112,7 @@ public class Procitaj {
         
         
         
-    public void dd(){
+    public void dd22(){
        String hh = "71_0002";
     }
 }
