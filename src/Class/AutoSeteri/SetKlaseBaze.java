@@ -202,4 +202,9 @@ public class SetKlaseBaze {
     /*Ovaj deo je dodat za 
      promenu u projketu sa drugog juzera 11111*/        
     }
+    
+    
+    public void dd(){
+       String hh = "71_0001";
+    }
 }
