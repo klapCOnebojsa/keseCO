@@ -46,4 +46,10 @@ public class PopUp {
                 frame.getTitle(),
                 JOptionPane.INFORMATION_MESSAGE);
     }
+    
+    
+        
+    public void dd(){
+       String popup = "71_4000";
+    }
 }
