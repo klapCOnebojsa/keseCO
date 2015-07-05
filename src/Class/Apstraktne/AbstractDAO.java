@@ -102,4 +102,11 @@ public abstract class AbstractDAO {
         /*Ovaj deo je dodat za 
      promenu u projketu sa drugog juzera 11111*/        
     }
+    
+    
+    
+    
+    public void kk(){
+        String hh = "branch01_0001";
+    }
 }

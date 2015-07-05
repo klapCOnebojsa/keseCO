@@ -72,5 +72,11 @@ public abstract class Opsta {
     private void VratiMeta() throws ClassNotFoundException, SQLException {
         brokerDAO.VratiMeta();
     }
+    
+    
+    
+    public void kk(){
+        String hh = "branch01_0001";
+    }
 
 }
