@@ -141,6 +141,8 @@ public class Formatiraj {
         this.kljuc = kljuc;
     }
     public void kk12(){
+        
         String hh = "branch01_0041";
+        hh = "branch01_0041";        
     } 
 }
