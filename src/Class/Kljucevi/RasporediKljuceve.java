@@ -31,4 +31,8 @@ public class RasporediKljuceve {
         }
         return kljucevi;
     }
+    
+    public void kk(){
+        String hh = "branch01_0002";
+    }
 }
