@@ -313,4 +313,10 @@ public class FormForme extends JFrame {
     public BrokerDAO getBrokerDAO(){
         return brokerDAO;
     }
+    
+    
+    
+    public void kk12(){
+        String hh = "branch01_0040";
+    }
 }
